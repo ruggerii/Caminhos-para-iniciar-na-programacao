@@ -1,13 +1,13 @@
 # Listagem de estudo para programação
 Java e outras linguagens orientada a objetos
 ### Topicos que são necessários estudar
-+ **[Algoritmos][ALG_LINK]**
++ **Algoritmos**
   + Tipos de dados
   + Variaveis, constantes e operadores
   + Estruturas de seleção (if, elseif, else, switch case)
   + Funções
   + Estruturas de repetição(while, for, etc.)
-+ **[Orientação a objeto][ORIENT_OBJ_LINK]** 
++ **Orientação a objeto** 
  + Tipos (primitivos e não primitivos)
  + Classes
  + Package (Pacotes para organização da estrutura do seu projeto)
@@ -31,8 +31,6 @@ Java e outras linguagens orientada a objetos
  + **Dicionarios(Mapas)**
  + Arvores
  + Grafos
-[ALG_LINK]: https://educapes.capes.gov.br/bitstream/capes/560827/2/Apostila%20-%20Curso%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf "Algoritmos"
-[ORIENT_OBJ_LINK]: https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf "Orientação a objeto"
 
 
 > **A teoria sem a prática de nada vale, a prática sem a teoria é cega.**
@@ -40,19 +38,19 @@ Java e outras linguagens orientada a objetos
 
 
 ### Ótimos sites para treinar logica de programação, algoritmos
-+ [HackerRank][HACKERH_LINK]
-+ [LeetCode][LEET_CODE_LINK]
++ HackerRank
++ LeetCode
 
 ### Plataformas e escolas de estudo sobre programação
-+ [Udemy][udemy]
-+ [DIO(Digital Innovation One)][DIO_LINK]
-+ [Rocketseat][ROCKETSEAT_LINK]
++ Udemy
++ DIO(Digital Innovation One)
++ Rocketseat
 
 
 ### Melhorando sua lógica de programação
 + **Estudando por fora, nao foque somente uma única fonte de estudo(livros, apostilas, documentações, vídeos)**
 + **Crie pequenos projetos para estudar o que acabou de estudar**
- + **[Repositorio de ideias para projetos 1][PROJECT_IDEA2]**
+ + **https://github.com/florinpop17/app-ideas**
 
 Um dos principais problemas de quem está começando com programação, é a forma de visualizar os problemas e tentamos resolve-los. Nesse estagio aqui é esperado que voce tenha a base da programação ja consolidada e esteja mais perdido de como utilizar o que acabou de estudar.
 
@@ -137,7 +135,7 @@ utilizando símbolos gráficos, os passos a serem seguidos para sua
 resolução.
  +  O entendimento de elementos gráficos é mais simples que o entendimento de textos.
  + Os fluxogramas devem ser entendidos e o algoritmo resultante não é detalhado. Isso dificulta sua transcrição para um programa
-+ **[C4Model][C4Model_LINK]:** é um conjunto de diagramas hierárquicos baseado em camadas que pode ser usado para descrever a arquitetura de um software em diferentes níveis de abstração e conforme aumenta a profundidade, maior será o nível de detalhes.
++ **C4Model:** é um conjunto de diagramas hierárquicos baseado em camadas que pode ser usado para descrever a arquitetura de um software em diferentes níveis de abstração e conforme aumenta a profundidade, maior será o nível de detalhes.
  + **Nível 1: Contexto** - O primeiro nível tem o objetivo de exibir o quadro geral, possibilitando visualizar as fronteiras e os relacionamentos com cada item externo, geralmente para outros serviços 
  + **Nível 2: Container** - A camada container expõe a arquitetura de forma simplificada, exibindo as tecnologias usadas e como a comunicação acontece.
  + **Nível 3: Componentes** - com foco nas funcionalidades, apresentando suas responsabilidades e detalhes de tecnologia
@@ -160,21 +158,17 @@ resolução.
 
 > References
  > https://www.alura.com.br/artigos/estruturas-de-dados-introducao
+ > 
  >https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf
+ >
  >http://www.waltenomartins.com.br/algdados_apostila_ord.pdf
+ >
  > https://www.alura.com.br/artigos/estruturas-de-dados-introducao
- > [Logica de programação][LG_PROG]
+ > 
  > http://wiki.icmc.usp.br/images/8/88/Aula2P2_-_Resolucao_de_Problemas_e_desenvolvimento_de_Algoritmos_2011101.pdf
+ > 
  > https://c4model.com/
+ > 
  > https://medium.com/pravaler-digital-team/c4-model-9b6e56705496
-[LG_PROG]: https://educapes.capes.gov.br/bitstream/capes/560827/2/Apostila%20-%20Curso%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf "Logica de programção"
-[udemy]: https://www.udemy.com/ "Udemy"
-[DIO_LINK]: https://www.dio.me/ "Dio(Digital Innovation One"
-[ROCKETSEAT_LINK]: https://www.rocketseat.com.br/ "Rocketseat"
-[HACKERH_LINK]: https://www.hackerrank.com/ "HackerRank"
-[LEET_CODE_LINK]: https://leetcode.com/ "LeetCode"
-[PROJECT_IDEA1]: https://github.com/The-Cool-Coders/Project-Ideas-And-Resources "Ideias para projetos 1"
-[PROJECT_IDEA2]: https://github.com/florinpop17/app-ideas "Repositorio de ideias para projetos"
-
-[C4Model_LINK]: https://c4model.com/ "C4Model"
+ > 
 
