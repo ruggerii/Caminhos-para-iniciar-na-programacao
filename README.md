@@ -1,13 +1,13 @@
 # Listagem de estudo para programação
 Java e outras linguagens orientada a objetos
 ### Topicos que são necessários estudar
-+ **Algoritmos**
++ **[Algoritmos](https://educapes.capes.gov.br/bitstream/capes/560827/2/Apostila%20-%20Curso%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)**
   + Tipos de dados
   + Variaveis, constantes e operadores
   + Estruturas de seleção (if, elseif, else, switch case)
   + Funções
   + Estruturas de repetição(while, for, etc.)
-+ **Orientação a objeto** 
++ **[Orientação a objeto](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf)** 
  + Tipos (primitivos e não primitivos)
  + Classes
  + Package (Pacotes para organização da estrutura do seu projeto)
@@ -28,7 +28,7 @@ Java e outras linguagens orientada a objetos
  + **Pilhas**
  + **Filas**
  + **Conjunto(Set)**
- + **Dicionarios(Mapas)**
+ + **Dicionarios(Map)**
  + Arvores
  + Grafos
 
@@ -38,19 +38,19 @@ Java e outras linguagens orientada a objetos
 
 
 ### Ótimos sites para treinar logica de programação, algoritmos
-+ HackerRank
-+ LeetCode
++ [HackerRank](https://www.hackerrank.com/)
++ [LeetCode](https://leetcode.com/)
 
 ### Plataformas e escolas de estudo sobre programação
-+ Udemy
-+ DIO(Digital Innovation One)
-+ Rocketseat
++ Udemy(https://www.udemy.com/)
++ [DIO(Digital Innovation One)](https://www.dio.me/)
++ [Rocketseat](https://www.rocketseat.com.br/)
 
 
 ### Melhorando sua lógica de programação
 + **Estudando por fora, nao foque somente uma única fonte de estudo(livros, apostilas, documentações, vídeos)**
 + **Crie pequenos projetos para estudar o que acabou de estudar**
- + **https://github.com/florinpop17/app-ideas**
+ + **[Ideias de projetos](https://github.com/florinpop17/app-ideas)**
 
 Um dos principais problemas de quem está começando com programação, é a forma de visualizar os problemas e tentamos resolve-los. Nesse estagio aqui é esperado que voce tenha a base da programação ja consolidada e esteja mais perdido de como utilizar o que acabou de estudar.
 
