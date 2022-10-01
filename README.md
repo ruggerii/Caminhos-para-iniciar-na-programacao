@@ -49,7 +49,7 @@ Java e outras linguagens orientada a objetos
 
 ### Melhorando sua lógica de programação
 + **Estudando por fora, nao foque somente uma única fonte de estudo(livros, apostilas, documentações, vídeos)**
-+ **Crie pequenos projetos para estudar o que acabou de estudar**
++ **Crie pequenos projetos para firmar o que acabou de estudar**
  + **[Ideias de projetos](https://github.com/florinpop17/app-ideas)**
 
 Um dos principais problemas de quem está começando com programação, é a forma de visualizar os problemas e tentamos resolve-los. Nesse estagio aqui é esperado que voce tenha a base da programação ja consolidada e esteja mais perdido de como utilizar o que acabou de estudar.
